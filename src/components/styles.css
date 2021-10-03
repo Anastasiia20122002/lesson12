@@ -1,0 +1,211 @@
+*{
+    margin-top:0;
+    padding:0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&family=Rubik:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Princess+Sofia&family=Rubik:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,500&display=swap');
+header{
+    display:flex;
+    flex-direction: row;
+}
+header img{
+width:97px;
+height:94px;
+margin-top: 12px;
+padding-left: 36px;
+}
+#top{
+    font-family: 'Princess Sofia', cursive;
+    font-weight: 400px;
+    width:79px;
+    padding-left:1px;
+    font-size:24px;
+    margin-top:28px;
+    text-align: right;
+    color:#6C5CE7;
+}
+#bottom{
+    font-family: 'Princess Sofia', cursive;
+    font-weight: 400px;
+    font-size:24px;
+    margin-top:54px;
+    text-align: right;
+    color:#6C5CE7;
+}
+#buy img{
+    width:36px;
+    height:36px;
+    margin-top:22px;
+}
+#buy{
+    justify-content: space-between;
+
+}
+#text-buy{
+width:69px;
+padding-right: 35px;
+text-align: center;}
+#buy h3{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    margin-top: 5px;
+    font-size: 18px;
+    color:#6C5CE7
+}
+#align{
+    display:flex; 
+    justify-content: space-between;
+}
+#cart{
+display: flex;
+justify-content: right;
+align-items: right;
+
+padding-right: 49px;
+}
+#block{
+width:430px;
+height:615px;
+margin-top:48px;
+}
+#pizza{
+    width:430px;
+    height:430px;
+}
+#pizza img{
+    width:430px;
+    height:430px;
+}
+#amount{
+    position: absolute;
+    margin-top:15px;
+    padding-left: 20px;;
+    font-size:14px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    color:#6C5CE7;
+}
+#length{
+    position: absolute;
+    color:#B2BEC3;
+    margin-top:35px;
+    padding-left: 20px;;
+    font-size:14px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+}
+#pizza-name{
+    padding-left:73px;
+    height:56px;
+    width:300px;
+    
+}
+#pizza-name h3{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-weight:400;
+    font-size: 36px;
+
+}
+#mini-des{
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    width:340px;
+    height:40px;
+    padding-left:45px;
+    text-align: center;
+    color: #B2BEC3;
+}
+#line{  
+    width:340px;
+    margin-top: 9px;
+    border: 1px solid #6C5CE7;
+}
+#price{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 13px;;
+    font-weight: 500;
+    font-size: 18px;
+    color:#6C5CE7;
+    padding-left: 45px;
+
+}
+#valute{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    margin-top: 15px;;
+    font-size: 15px;
+    color:#B2BEC3;
+    padding-left: 3px;
+}
+#plus{
+padding-left: 77px;
+font-family: 'Rubik', sans-serif;
+font-weight: 700;
+font-size: 18px;
+color:#6C5CE7;
+padding-left: 77px;
+}
+#minus{
+padding-left: 10px;
+font-family: 'Rubik', sans-serif;
+font-weight: 700;
+font-size: 18px;
+color:#6C5CE7;
+}
+#begcount{
+    font-family: 'Rubik', sans-serif;
+    padding-left: 10px;
+    font-size:18px;
+    font-weight:500;
+
+}
+#counter{
+    margin-top:13px;
+}
+#order{
+    display: flex;
+    flex-direction: row;
+}
+#add{
+    font-family: 'Rubik', sans-serif;
+    width:80px;
+    height:40px;
+    font-size:18px;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: #6C5CE7;
+    color:white;
+    border:0;
+}
+#add-div{
+padding-left: 65px;
+}
+#align-vert{
+    padding-left: 33px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#first-row{
+    display: flex;
+    flex-direction: row;
+    padding-right: 35px;
+    
+}
+#second-row{
+    margin-top:46px;
+    display: flex;
+    flex-direction: row;
+    padding-right: 35px;
+
+}
+#space{
+    padding-left: 41px;
+}
