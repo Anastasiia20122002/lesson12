@@ -1,0 +1,81 @@
+#pizza_img {
+  height: 90px;
+  width: 98px;
+  padding-left: 61px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+#name_small {
+  width: 213px;
+  font-size: 24px;
+  padding-left: 24px;
+  margin-top: 10px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+#ChosenPizza {
+  margin-top: 51px;
+  display: flex;
+  flex-direction: row;
+}
+#price_small {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #6c5ce7;
+  padding-left: 24px;
+}
+#info_small {
+  display: flex;
+  flex-direction: column;
+}
+#pair {
+  display: flex;
+  flex-direction: row;
+}
+#number {
+  margin-top: 9px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  padding-left: 168px;
+}
+#close {
+  justify-content: right;
+}
+#close img {
+  width: 10px;
+  height: 10px;
+  margin-bottom: 10px;
+}
+#number-modal {
+  display: flex;
+  flex-direction: column;
+}
+#weight_small {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #6c5ce7;
+  padding-left: 153px;
+}
+#cash {
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #6c5ce7;
+  padding-left: 153px;
+}
+#amount {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+}
+#amount_text {
+  font-size: 14px;
+  margin-top: 100px;
+  font-weight: 400;
+  font-family: "Rubik", sans-serif;
+  padding-left: 556px;
+  color: black;
+}
